@@ -1,1 +1,1 @@
-Web technologies project for 3rd semester using MERN technologies
+Web technologies project using MERN technologies
